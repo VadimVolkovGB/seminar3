@@ -77,3 +77,6 @@
     git branch <branch name>
 
 где \<branch name\> - имя новой ветки
+
+## Удаленные репозитории
+
